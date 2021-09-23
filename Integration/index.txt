@@ -38,8 +38,6 @@
 
                 <button>En savoir +</button>
             </div>
-
-            <p></p>
         
             <div>
                 <img src="https://via.placeholder.com/300x150" alt="placeholder">
@@ -49,8 +47,6 @@
 
                 <button>En savoir +</button>
             </div>
-
-            <p></p>
 
             <div>
                 <img src="https://via.placeholder.com/300x150" alt="placeholder">
@@ -92,8 +88,6 @@
 
             </article>
 
-            <p></p>
-
             <article>
 
                 <img src="https://via.placeholder.com/300" alt="placeholder">
@@ -131,8 +125,6 @@
                 <button>Envoyer</button>
 
             </form>
-
-
 
         </section>
 
