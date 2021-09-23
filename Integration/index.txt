@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html lang="fr">
+
+<head>
+    <meta charset="UTF-8">
+    <title>Mon Portfolio</title>
+</head>
+
+<body>
+
+    <header>
+        <h1>MON PORTFOLIO</h1>
+
+        <nav>
+            <ul>
+                <li>PROJETS</li>
+                <li>A PROPOS</li>
+                <li>ARTICLES</li>
+                <li>CONTACT</li>
+            </ul>
+        </nav>
+
+        <img src="https://via.placeholder.com/500x200" alt="placeholder">
+        <h2>Jonathan Demay</h2>
+    </header>
+
+    <main>
+
+        <section>
+
+            <h2>Mes projets</h2>
+            
+            <div>
+                <img src="https://via.placeholder.com/300x150" alt="placeholder">
+                <h3>Projet 1</h3>
+
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus natus quidem, cumque necessitatibus quo blanditiis velit enim voluptatibus harum deleniti cupiditate commodi aperiam recusandae rem impedit ullam cum asperiores!</p>
+
+                <button>En savoir +</button>
+            </div>
+        
+            <div>
+                <img src="https://via.placeholder.com/300x150" alt="placeholder">
+                <h3>Projet 2</h3>
+
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus natus quidem, cumque necessitatibus quo blanditiis velit enim voluptatibus harum deleniti cupiditate commodi aperiam recusandae rem impedit ullam cum asperiores!</p>
+
+                <button>En savoir +</button>
+            </div>
+
+            <div>
+                <img src="https://via.placeholder.com/300x150" alt="placeholder">
+                <h3>Projet 3</h3>
+
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus natus quidem, cumque necessitatibus quo blanditiis velit enim voluptatibus harum deleniti cupiditate commodi aperiam recusandae rem impedit ullam cum asperiores!</p>
+
+                <button>En savoir +</button>
+            </div>
+        </section>
+
+        <section>
+
+            <h2>A propos</h2>
+
+            <img src="https://via.placeholder.com/400" alt="placeholder">
+
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus natus quidem, cumque necessitatibus quo blanditiis velit enim voluptatibus harum deleniti cupiditate commodi aperiam recusandae rem impedit ullam cum asperiores!</p>
+
+            <button>Voir mon CV</button>
+
+            <a href="https://twitter.com/JonathanDemay" target="_blank">Twitter</a>
+            <a href="https://www.facebook.com/jonathan.demay004/" target="_blank">Facebook</a>
+
+        </section>
+
+        <section>
+
+            <h2>Mes articles</h2>
+
+            <article>
+
+                <img src="https://via.placeholder.com/300" alt="placeholder">
+                <h3>Article 1</h3>
+
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus natus quidem, cumque necessitatibus quo blanditiis velit enim voluptatibus harum deleniti cupiditate commodi aperiam recusandae rem impedit ullam cum asperiores!</p>
+
+                <button>Lire</button>
+
+            </article>
+
+            <article>
+
+                <img src="https://via.placeholder.com/300" alt="placeholder">
+                <h3>Article 2</h3>
+
+                <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore possimus natus quidem, cumque necessitatibus quo blanditiis velit enim voluptatibus harum deleniti cupiditate commodi aperiam recusandae rem impedit ullam cum asperiores!</p>
+
+                <button>Lire</button>
+                
+            </article>
+
+        </section>
+
+        <section>
+
+            <h2>Me contacter</h2>
+
+            <form>
+
+                <label for="name">Nom et Prénom</label>
+                <br>
+                <input type="text" id="name">
+                <br>
+
+                <label for="email">E-mail</label>
+                <br>
+                <input type="email" id="email">
+                <br>
+
+                <label for="message">Message</label>
+                <br>
+                <textarea name="message" id="message" placeholder="C'est à vous !" cols="50" rows="10"></textarea>
+                <br>
+
+                <button>Envoyer</button>
+
+            </form>
+
+        </section>
+
+    </main>
+
+    <footer>
+        <p>monportfolio.com</p>
+    </footer>
+
+</body>
+</html>
