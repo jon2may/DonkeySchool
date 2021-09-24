@@ -1,5 +1,7 @@
 body {
     background-color: rgb(222, 244, 247);
+    max-width: 100%;
+    height: auto;
 }
 
 img:hover {
@@ -46,4 +48,10 @@ section:nth-child(2) img {
 .menu a:hover {
     background-color: rgb(161, 188, 238);
     color: rgb(78, 104, 219);
+}
+
+@media screen and (max-width: 600px) {
+    body {
+        background-color: blue;
+    }
 }
