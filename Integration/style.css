@@ -10,3 +10,9 @@ img {
     width: 400px;
     height: 350px;
 }
+
+section:nth-child(2) img {
+    filter: grayscale(100);
+    width: 200px;
+    height: 200px;
+}
