@@ -1,0 +1,12 @@
+img:hover {
+    opacity: 0.4;
+}
+
+img {
+    border-radius: 3px;
+}
+
+.carré {
+    width: 400px;
+    height: 350px;
+}
